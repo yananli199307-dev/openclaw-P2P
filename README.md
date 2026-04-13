@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# 🦞 OpenClaw — Personal AI Assistant (with Agent P2P)
 
 <p align="center">
     <picture>
@@ -6,6 +6,8 @@
         <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" alt="OpenClaw" width="500">
     </picture>
 </p>
+
+> **Custom Build:** This fork includes the **Agent P2P** channel plugin for decentralized agent-to-agent messaging.
 
 <p align="center">
   <strong>EXFOLIATE! EXFOLIATE!</strong>
